@@ -1,3 +1,5 @@
+package Tema1;
+
 public class EstruturaIF {
     public static void main(String[] args) {
         int idade = 18;

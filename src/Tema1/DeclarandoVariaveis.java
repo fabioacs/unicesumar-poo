@@ -1,3 +1,5 @@
+package Tema1;
+
 public class DeclarandoVariaveis
 {
     public static void main(String[] args)

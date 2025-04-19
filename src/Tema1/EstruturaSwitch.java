@@ -1,3 +1,5 @@
+package Tema1;
+
 public class EstruturaSwitch {
     public static void main(String[] args) {
         int opcao = 2;

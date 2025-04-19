@@ -1,3 +1,5 @@
+package Tema1;
+
 public class LacosRepeticao {
     public static void main(String[] args) {
 
